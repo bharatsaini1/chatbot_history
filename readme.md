@@ -19,7 +19,7 @@ It includes practical implementations of:
 ```
 chatbot_history/
 │
-├── RAG_QA/                  # Retrieval-Augmented QA system
+├── RAG_QA/                  # Retrieval-Augmented QA system work
 ├── SQL_agent/               # SQL query agent using LLM
 ├── Search_engine_agent/     # Web search-based AI agent
 ├── Text_Summerization/      # Long text summarization system
